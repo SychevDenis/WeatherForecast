@@ -41,7 +41,7 @@ class MainActivity : ComponentActivity(), UiInterface {
     private val fragmentChooseCity = FragmentChooseCity(this@MainActivity, listCityRu)
     private val fragmentCityWeather = FragmentCityWeather(this@MainActivity)
     private val baseUrl = "https://api.weatherstack.com"
-    private val key = "ddc5bbd906302087b4e631821b6ab665"
+    private val key = "введите свой ключ"
     private val scope = CoroutineScope(Dispatchers.IO) // CoroutineScope для IO потока
 
     override fun onCreate(savedInstanceState: Bundle?) {
