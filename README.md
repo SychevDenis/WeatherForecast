@@ -4,5 +4,6 @@
 обработки json используется библиотека gson, для получения картинки по url используется библиотека coil. Весь UI выполнен с использованием jetpack compose.
 Сама программа построена на одном activity и двух фрагментах. Реализация ассинхронных запросов сделана на корутинах.
 
-![photo_2024-09-12_20-12-33 (4)](https://github.com/user-attachments/assets/a31ee81b-932a-4728-ad17-2cd3916b0c46)
-![photo_2024-09-12_20-12-33 (3)](https://github.com/user-attachments/assets/b8aaea71-f9d6-4ae2-8944-3bed0120b7b0)
+![photo_2024-09-12_20-12-33 (4)](https://github.com/user-attachments/assets/a31ee81b-932a-4728-ad17-2cd3916b0c46) ![photo_2024-09-12_20-12-33](https://github.com/user-attachments/assets/91db8f3e-e913-4d5e-8e1f-a7479a9178e7)
+
+
